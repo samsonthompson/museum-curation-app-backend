@@ -6,3 +6,6 @@ venv/
 
 # Windows system files
 Thumbs.db
+
+# API-keys and sensitive data 
+.env
